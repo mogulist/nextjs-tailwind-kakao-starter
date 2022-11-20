@@ -1,7 +1,6 @@
 import type { NextPage } from 'next';
 import Head from 'next/head';
 import KakaoMap from 'components/KakaoMap';
-import { KAKAO_SDK_URL } from 'consts';
 
 const Home: NextPage = () => {
   return (
