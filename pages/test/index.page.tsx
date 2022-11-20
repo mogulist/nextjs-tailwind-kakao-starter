@@ -1,4 +1,3 @@
 export default function Test() {
-  const x: number = 'string';
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+  return <h1 className="text-3xl font-bold underline m-4 p-4 bg-gray-500">Hello world!</h1>;
 }
