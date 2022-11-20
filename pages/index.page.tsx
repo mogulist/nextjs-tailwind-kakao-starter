@@ -9,7 +9,7 @@ const Home: NextPage = () => {
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
-        <script type="text/javascript" src={KAKAO_SDK_URL}></script>
+        {/* <script type="text/javascript" src={KAKAO_SDK_URL}></script> */}
       </Head>
 
       <main className="absolute w-screen h-screen left-0 top-0">
